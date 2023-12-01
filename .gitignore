@@ -1,0 +1,10 @@
+# Archivos de ejecución
+__pycache__/
+
+# Datasets
+data/
+
+# Archivos log
+execution.log
+
+tabu.zip
